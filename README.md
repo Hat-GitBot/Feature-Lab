@@ -1,8 +1,6 @@
 ﻿
 # 🔬 Feature Engineering & Model Benchmark Lab
 
-<div align="center">
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://feature-lab.streamlit.app/) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-0086D4)](https://xgboost.readthedocs.io/) [![LightGBM](https://img.shields.io/badge/LightGBM-4.0%2B-2D9E6B)](https://lightgbm.readthedocs.io/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **An interactive end-to-end machine learning experimentation platform built for data scientists.**  
