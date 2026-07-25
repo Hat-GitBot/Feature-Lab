@@ -233,7 +233,7 @@ def generate_sample_classification_data(n_samples: int = 1000) -> pd.DataFrame:
     df['category_B'] = np.random.choice(['low', 'medium', 'high'], size=n_samples)
     
     # Add date feature
-    df['date'] = pd.date_range('2023-01-01', periods=n_samples, freq='H')
+    df['date'] = pd.date_range('2023-01-01', periods=n_samples, freq='h')
     
     return df
 
