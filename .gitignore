@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Colab artifacts
+.config/
+.ipynb_checkpoints/
+{src,assets}/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / DB
+experiments.db
+*.sqlite
+*.log
+
+# Do NOT ignore:
+# requirements.txt  ← must be tracked
+# src/              ← must be tracked
